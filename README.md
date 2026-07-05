@@ -8,5 +8,5 @@
 - 🎓 B.Sc. in Electrical and Electronics Engineering (USP)
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - ☁️ Working with Databricks, PySpark, Azure and Data Engineering
-- 📱 Android App Developer (Java)
+- 📱 Android App Developer (Java & Kotlin )
 - 🌎 Always learning new technologies
