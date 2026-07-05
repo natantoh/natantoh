@@ -1,5 +1,12 @@
-## 📊 GitHub Stats
+# Hi there 👋 I'm Natanael
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+**Software Developer | Data Engineer | Electrical & Electronics Engineer**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+## 🚀 About Me
+
+- 💻 Software Developer and Data Engineer
+- 🎓 B.Sc. in Electrical and Electronics Engineering (USP)
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- ☁️ Working with Databricks, PySpark, Azure and Data Engineering
+- 📱 Android App Developer (Java)
+- 🌎 Always learning new technologies
