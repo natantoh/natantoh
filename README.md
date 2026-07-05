@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-- 💻 Software Developer and Data Engineer
-- 🎓 B.Sc. in Electrical and Electronics Engineering (USP)
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- ☁️ Working with Databricks, PySpark, Azure and Data Engineering
-- 📱 Android App Developer (Java & Kotlin )
-- 🌎 Always learning new technologies
+- 💻 Software Developer with a passion for building scalable applications and data solutions.
+- ☁️ Data Engineer experienced with Databricks, PySpark, Azure, SQL and ETL pipelines.
+- 📱 Android developer creating applications in Java.
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Distributed Systems.
+- 🎓 B.Sc. in Electrical and Electronics Engineering from the University of São Paulo (USP).
+- 🌱 Always learning new technologies and improving my software engineering skills.
